@@ -7,7 +7,7 @@ import UnitsPicker from './components/UnitsPicker'
 import Reloader from './components/Reloader'
 import WeatherDetails from './components/WeatherDetails'
 
-const WEATHER_API_KEY = 'bd3ec9255336a8a0ff69b6d5d1b240ed'
+//const WEATHER_API_KEY = ''
 
 const BASE_WEATHER_URL = 'https://api.openweathermap.org/data/2.5/weather?'
 
